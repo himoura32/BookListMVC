@@ -9,7 +9,6 @@ C:\Users\shawn\source\repos\BookListMVC\BookListMVC\bin\Debug\netcoreapp3.1\Book
 C:\Users\shawn\source\repos\BookListMVC\BookListMVC\bin\Debug\netcoreapp3.1\BookListMVC.pdb
 C:\Users\shawn\source\repos\BookListMVC\BookListMVC\bin\Debug\netcoreapp3.1\BookListMVC.Views.dll
 C:\Users\shawn\source\repos\BookListMVC\BookListMVC\bin\Debug\netcoreapp3.1\BookListMVC.Views.pdb
-C:\Users\shawn\source\repos\BookListMVC\BookListMVC\obj\Debug\netcoreapp3.1\BookListMVC.csprojAssemblyReference.cache
 C:\Users\shawn\source\repos\BookListMVC\BookListMVC\obj\Debug\netcoreapp3.1\staticwebassets\BookListMVC.StaticWebAssets.Manifest.cache
 C:\Users\shawn\source\repos\BookListMVC\BookListMVC\obj\Debug\netcoreapp3.1\staticwebassets\BookListMVC.StaticWebAssets.xml
 C:\Users\shawn\source\repos\BookListMVC\BookListMVC\obj\Debug\netcoreapp3.1\BookListMVC.RazorAssemblyInfo.cache
